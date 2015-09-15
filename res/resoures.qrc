@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>iconFisics.png</file>
+        <file>iconApp.ico</file>
+    </qresource>
+    <qresource prefix="/new/cursors">
+        <file>icon_minus.png</file>
+        <file>icon_plus.png</file>
+    </qresource>
+</RCC>
